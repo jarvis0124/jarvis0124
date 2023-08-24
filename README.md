@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jarvis0124
 - 👀 I’m interested in  WEB 
 - 🌱 I’m currently learning Full-Stack
-- 💞️ I’m looking to collaborate on OpenSourch
+- 💞️ I’m looking to collaborate on OpenSource
 - 📫 How to reach me ...
 
 <!---
